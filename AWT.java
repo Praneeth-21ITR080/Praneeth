@@ -3,7 +3,7 @@ import java.awt.event.*;
 import java.awt.event.WindowEvent.*;    
 import java.awt.event.WindowListener.*; 
 class awt{    
-    
+    //21itr080
    awt() {  
   
       Frame f = new Frame();  
@@ -27,6 +27,7 @@ class awt{
       Label finname=new Label();
       //Label finadd=new Label();
       Label finpay=new Label();
+	   
 
 
 
